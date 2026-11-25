@@ -1,0 +1,23 @@
+{
+  "company": "Acme Global Technologies",
+  "plan_year": 2026,
+  "benefits_summary": {
+    "healthcare": {
+      "medical_coverage": "100% premium paid for employee, 80% for dependents (PPO or HDHP options)",
+      "dental_vision": "Comprehensive dental with annual $2,000 maximum; annual vision exams and hardware allowance $300",
+      "mental_health": "Up to 12 free therapy sessions per year via Modern Health"
+    },
+    "retirement": {
+      "401k_matching": "100% match on the first 4% of salary, immediate vesting",
+      "provider": "Fidelity Investments"
+    },
+    "learning_development": {
+      "annual_education_budget": "$2,500 per employee for books, conferences, certifications, and online courses",
+      "approval_process": "Self-approved up to $500, manager approval for higher amounts"
+    },
+    "wellness": {
+      "gym_membership": "$75 monthly fitness and wellness reimbursement",
+      "wellness_days": "2 company-wide mental wellness recharge days per quarter"
+    }
+  }
+}

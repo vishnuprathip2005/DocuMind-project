@@ -1,0 +1,35 @@
+{
+  "organization": "Project Nebula Engineering Team",
+  "last_updated": "October 2026",
+  "members": [
+    {
+      "name": "Sarah Chen",
+      "role": "Principal AI Architect",
+      "email": "sarah.chen@company.com",
+      "department": "Machine Learning",
+      "location": "San Francisco, CA",
+      "lead_project": "Keyword and Semantic Retrieval Engine"
+    },
+    {
+      "name": "Marcus Rodriguez",
+      "role": "Lead Frontend Engineer",
+      "email": "marcus.r@company.com",
+      "department": "User Experience",
+      "location": "Austin, TX",
+      "lead_project": "React Component Design System"
+    },
+    {
+      "name": "Amina Patel",
+      "role": "Staff Backend Engineer",
+      "email": "amina.patel@company.com",
+      "department": "Platform Services",
+      "location": "New York, NY",
+      "lead_project": "FastAPI PostgreSQL Data Pipelines"
+    }
+  ],
+  "emergency_contacts": {
+    "it_helpdesk": "helpdesk@company.com",
+    "security_operations": "soc@company.com",
+    "hotline": "+1-800-555-0199"
+  }
+}
